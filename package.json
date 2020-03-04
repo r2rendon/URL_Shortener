@@ -1,0 +1,26 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener made with NodeJS, Express, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r2rendon/URL_Shortener.git"
+  },
+  "author": "ArturoRendon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r2rendon/URL_Shortener/issues"
+  },
+  "homepage": "https://github.com/r2rendon/URL_Shortener#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3",
+    "shortid": "^2.2.15"
+  }
+}
